@@ -10,6 +10,3 @@ __pycache__/
 mcp-custom-3/secrets.env
 mcp-custom-3/*.log
 
-# Ignore Paul folder if not needed (uncomment if applicable)
- Paul/
- rag-mcp/
