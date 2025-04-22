@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+venv/
+
+# Ignore virtual environment
+*.pyc
+__pycache__/
+
+# Ignore specific files in mcp-custom-3
+mcp-custom-3/secrets.env
+mcp-custom-3/*.log
+
+# Ignore Paul folder if not needed (uncomment if applicable)
+ Paul/
+ rag-mcp/
